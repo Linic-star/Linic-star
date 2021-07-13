@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Linic-star
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning CS50/Web orogramming with Python and Javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
